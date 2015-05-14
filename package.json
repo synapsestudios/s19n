@@ -1,0 +1,19 @@
+{
+  "name": "s19n",
+  "version": "1.0.0",
+  "description": "Synternationalization: i18n for React applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synapsestudios/s19n.git"
+  },
+  "author": "Synapse Studios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synapsestudios/s19n/issues"
+  },
+  "homepage": "https://github.com/synapsestudios/s19n#readme",
+  "devDependencies": {
+    "react-intl": "1.2.0"
+  }
+}
