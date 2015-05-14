@@ -1,6 +1,6 @@
 {
   "name": "s19n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Synternationalization: i18n for React applications",
   "main": "./lib/index.js",
   "repository": {
