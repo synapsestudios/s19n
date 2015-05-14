@@ -2,7 +2,7 @@
   "name": "s19n",
   "version": "0.0.1",
   "description": "Synternationalization: i18n for React applications",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/synapsestudios/s19n.git"
