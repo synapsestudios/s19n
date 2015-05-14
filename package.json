@@ -1,7 +1,7 @@
 {
   "name": "s19n",
   "version": "0.0.2",
-  "description": "Synternationalization: i18n for React applications",
+  "description": "Synternationalization: i18n helper for React applications",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "url": "https://github.com/synapsestudios/s19n/issues"
   },
   "homepage": "https://github.com/synapsestudios/s19n#readme",
-  "devDependencies": {
+  "dependencies": {
     "react-intl": "1.2.0"
   }
 }

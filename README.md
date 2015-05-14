@@ -1,2 +1,2 @@
 # s19n
-Synternationalization
+s19n is a wrapper mixin around `react-intl` that provides additional helper methods for use in components.
